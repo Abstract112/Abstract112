@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="480" >
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="470" >
   
 - 🔭 I’m currently working on **JS & Unity Projects**
 
@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abstract112&show_icons=true&locale=en&layout=compact" alt="abstract112" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abstract112&show_icons=true&locale=en" alt="abstract112" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abstract112&show_icons=true&locale=en" alt="abstract112" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abstract112&" alt="abstract112" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abstract112&" alt="abstract112" /></p>
