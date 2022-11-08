@@ -1,7 +1,21 @@
+#Banner on Top
 ![MasterHead](https://media.bootcampcdn.com/Monash/img/content/coding.jpg)
+
 <h1 align="left">Aaditya Tandon</h1>
+
 <h3 align="left" font-size:16px;">An eager frontend and backend developer from singapore. I really enjoy learning new programming laguages, but my favourite programming laguage up till now is Python. I also love designing pitch presentations, websites, apps etc!</h3>  
 
+---
+ 
+### Languages & Tools 🛠
+                                 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                                                                                                                 
+                                 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstract112&label=Profile%20views&color=0e75b6&style=flat" alt="abstract112" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -22,6 +36,8 @@
 - 📫 How to reach me **tandon.aaditya1811@gmail.com**
 
 - ⚡ Fun fact **I play 🏀**
+
+---                                                                                                                             
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
