@@ -1,24 +1,23 @@
 ![MasterHead](https://media.bootcampcdn.com/Monash/img/content/coding.jpg)
-<h1 align="center">Hi 👋, I'm Aaditya Tandon</h1>
-<h3 align="center">A eager frontend and backend developer from Singapore</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+<h1 align="left">Aaditya Tandon</h1>
+<h3 align="left">An eager frontend and backend developer from singapore. I really enjoy learning new programming laguages, but I must say my favourite programming laguage up till now is Python.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstract112&label=Profile%20views&color=0e75b6&style=flat" alt="abstract112" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+  
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="480" >
+  
 - 🔭 I’m currently working on **JS & Unity Projects**
 
 - 🌱 I’m currently learning **JS & Unity**
 
 - 👯 I’m looking to collaborate on [Repl or Unity](https://replit.com/@AnkitTandon)
 
-- 🧩Hackathons that I have done **ClockHacks, Do-Re-Mi Hacks 3**
+- 🧩Hackathons that I have done 
+  **ClockHacks, Do-Re-Mi Hacks 3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abstract112?tab=projects](https://github.com/Abstract112?tab=projects)
-
-- 💬 Ask me about **Python, ML,Designing**
+- 💬 Ask me about **Python, ML, HTML, Designing**
 
 - 📫 How to reach me **tandon.aaditya1811@gmail.com**
 
