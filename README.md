@@ -49,7 +49,7 @@
 
 ---                                                                                                                             
 
-<img align="left" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" width="380" >                                                                                                                                                                     
+<img align="left" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" width="360" >                                                                                                                                                                     
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abstract112&show_icons=true&locale=en" alt="abstract112" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abstract112&" alt="abstract112" /></p>
