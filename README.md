@@ -17,7 +17,7 @@
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img align="left" alt="Unity" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/apple-touch-icon.png" />
-<img align="left" alt="R" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
+<img align="left" alt="R" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
                                                                          
 <u> </u>   
 <u> </u>  
@@ -49,7 +49,7 @@
 
 ---                                                                                                                             
 
-<img align="left" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" width="400" >                                                                                                                                                                     
+<img align="left" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif" width="380" >                                                                                                                                                                     
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abstract112&show_icons=true&locale=en" alt="abstract112" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abstract112&" alt="abstract112" /></p>
