@@ -2,7 +2,7 @@
 
 <h1 align="left">Aaditya Tandon</h1>
 
-<h3 align="left" font-size:16px;">An eager frontend and backend developer from singapore. I really enjoy learning new programming laguages, but my favourite programming laguage up till now is Python. I also love designing pitch presentations, websites, apps etc!</h3>  
+<h3 align="left" font-size:16px;">An eager frontend and backend developer from singapore. I really enjoy learning new programming laguages, and my favourite programming laguage up till now is Python. I also love designing pitch presentations, websites, apps etc!</h3>  
 
 ---                                 
                                  
