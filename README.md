@@ -4,8 +4,10 @@
 
 <h3 align="left" font-size:16px;">An eager frontend and backend developer from singapore. I really enjoy learning new programming laguages, and my favourite programming laguage up till now is Python. I also love designing pitch presentations, websites, apps etc!</h3>  
 
----                                 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abstract112&label=Profile%20views&color=0e75b6&style=flat" alt="abstract112" /> </p>                               
                                  
+--- 
+                                                                                        
 ### Languages & Tools 🛠
                                  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -53,3 +55,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abstract112&show_icons=true&locale=en" alt="abstract112" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abstract112&" alt="abstract112" /></p>
+                                                                                                                 
+                                                                                                                                            
