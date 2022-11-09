@@ -17,7 +17,7 @@
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img align="left" alt="Unity" width="80px" style="padding-right:10px;" src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" />
 <img align="left" alt="vs studios" width="40px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/apple-touch-icon.png" />
-<img align="left" alt="R" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
+<img align="left" alt="R" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
                                                                          
 <u> </u>   
 <u> </u>  
