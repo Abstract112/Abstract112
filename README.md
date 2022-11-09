@@ -22,7 +22,7 @@
 <u> </u>   
 <u> </u>  
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="380" >
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="370" >
   
 <h3 align="left">Connect with Me 🔌</h3>  
 <p align="left">
